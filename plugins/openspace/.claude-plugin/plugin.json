@@ -1,5 +1,6 @@
 {
   "name": "openspace",
+  "displayName": "openspace",
   "version": "0.1.0",
   "description": "Choose open-source software with evidence: license status, maintenance and deployment facts, each with a source URL.",
   "author": {
@@ -16,5 +17,6 @@
     "self-hosted",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://openspace.so/privacy"
+  "privacyPolicyUrl": "https://openspace.so/privacy",
+  "supportUrl": "https://github.com/mczaykowski/openspace-claude-plugin/issues"
 }
