@@ -2,9 +2,19 @@
   "name": "openspace",
   "version": "0.1.0",
   "description": "Choose open-source software with evidence: license status, maintenance and deployment facts, each with a source URL.",
-  "author": { "name": "openspace", "url": "https://openspace.so" },
+  "author": {
+    "name": "openspace",
+    "url": "https://openspace.so"
+  },
   "homepage": "https://openspace.so/docs/mcp",
   "repository": "https://github.com/mczaykowski/openspace-claude-plugin",
   "license": "MIT",
-  "keywords": ["open-source", "licenses", "software-selection", "self-hosted", "mcp"]
+  "keywords": [
+    "open-source",
+    "licenses",
+    "software-selection",
+    "self-hosted",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://openspace.so/privacy"
 }
