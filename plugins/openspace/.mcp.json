@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "openspace": { "type": "http", "url": "https://openspace.so/mcp" }
+  }
+}

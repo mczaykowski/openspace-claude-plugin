@@ -1,0 +1,12 @@
+{
+  "name": "openspace",
+  "description": "openspace: evidence-backed facts for choosing open-source software.",
+  "owner": { "name": "openspace", "url": "https://openspace.so" },
+  "plugins": [
+    {
+      "name": "openspace",
+      "source": "./plugins/openspace",
+      "description": "Choose open-source software with evidence: license status, maintenance and deployment facts, each with a source URL."
+    }
+  ]
+}
